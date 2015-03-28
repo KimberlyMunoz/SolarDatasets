@@ -3,6 +3,7 @@ layout: dataset
 title: Open PV Project
 link: https://openpv.nrel.gov/
 nrel-contact: Dan Getman
+category: Market Data
 ---
 
 ## Description
