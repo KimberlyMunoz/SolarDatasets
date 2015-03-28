@@ -5,7 +5,7 @@ link: http://developer.nrel.gov/docs/electricity/utility-rates-v3/
 nrel-contact: Nate Blair 
 category: Utility Rate Database
 short-description: This API returns annual average utility rates ($/kWH) for residential, commercial and industrial sectors. Users can also search the local utility name for a specific location. 
-identifier: 30f58cb8-98b1-44a2-83da-94107b10b374
+identifier: 
 ---
 
 ## Short Description
