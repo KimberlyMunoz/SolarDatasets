@@ -9,9 +9,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kimberlymunoz.github.io/solardatasets" # the base hostname & protocol for your site
 twitter_username: Energy
 #github_username:  jekyll
+permalink: /:title.html
 
 # Build settings
 markdown: kramdown
 
 collections:
-- datasets
+ datasets:
+  output: true
+  permalink: /d/:title.html

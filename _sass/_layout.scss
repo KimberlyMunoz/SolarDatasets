@@ -237,7 +237,7 @@
 
 .search-section {
     width: 100%;
-    background: url(/img/350org-solar.jpg);
+    background: url(/img/brookhaven-solar.jpg);
     background-size: cover;
     height: 500px;
     color: white;
@@ -267,6 +267,25 @@
     transform: translateY(-50%);
 }
 
-.featured-datasets {
+.featured-datasets, .post {
     padding: $spacing-unit 0;
+}
+
+.post-preview {
+    width: 40%;
+    float: left;
+    padding: 10px;
+    margin: 0 2.5% 20px;
+    border: 2px solid grey;
+    border-radius: 3px;
+    height: 200px;
+}
+
+.post-list {
+    margin-left: 0;
+list-style: none;
+width: 100%;
+clear: both;
+height: 350px;
+
 }
