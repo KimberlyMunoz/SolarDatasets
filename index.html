@@ -4,6 +4,16 @@ layout: default
 
 <div class="home">
 
+<h1 class="page-heading">Datasets</h1>
+  <ul class="post-list">
+    {% for dataset in site.datasets %}
+      <li>
+        <h2><a class="post-link" href="{{dataset.url | prepend: site.baseurl }}">{{dataset.title}}</a></h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+<!--
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
@@ -19,5 +29,5 @@ layout: default
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+-->
 </div>
