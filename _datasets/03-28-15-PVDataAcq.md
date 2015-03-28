@@ -1,7 +1,7 @@
 ---
 layout: dataset
 title: Photo Voltaic Data Acquisition Application
-link: http://developer.nrel.gov/docs/solar/pvdaq-v3/
+link: http://maps.nrel.gov/pvdaq
 nrel-contact: Dan Getman
 category: Photo Voltaic Data Acquisition
 short-description: Users can explore data visually thru the application and download only the portions of the data necessary for analysis. 
