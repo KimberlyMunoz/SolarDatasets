@@ -1,7 +1,7 @@
 ---
 layout: dataset
 title: Solar Deployment System (Solar DS)
-link: 
+link: http://www.nrel.gov/docs/fy10osti/45832.pdf
 nrel-contact: Easan Drury
 category: Market Data
 ---
