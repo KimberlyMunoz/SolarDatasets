@@ -5,7 +5,7 @@ link: http://developer.nrel.gov/docs/electricity/energy-incentives-v1/
 nrel-contact: Dan Getman
 category: Cost and Economic Analyses
 short-description: This API lists the incentives found in the Database for State Incentives for Renewables and Efficiency (DSIRE) spreadsheet by location. 
-identifier: 30f58cb8-98b1-44a2-83da-94107b10b374
+identifier: 45550ec5-f745-49a9-a2e6-01bf76022455
 ---
 
 ## Short description
