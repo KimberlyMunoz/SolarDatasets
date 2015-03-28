@@ -5,7 +5,7 @@ link: http://developer.nrel.gov/docs/electricity/census-rate-v3/
 nrel-contact: Nate Blair 
 category: Utility Rate Database
 short-description: Given a location and Census Bureau region level (block, blockgroup, tract), this API returns the Census Bureau ID, utility rate, and company information.
-identifier: 30f58cb8-98b1-44a2-83da-94107b10b374
+identifier: 2b2ad06c-dc85-4d5d-b445-34e27343c697
 ---
 
 ## Short Description
