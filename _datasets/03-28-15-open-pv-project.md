@@ -6,6 +6,10 @@ nrel-contact: Dan Getman
 category: Market Data
 ---
 
+## Short description
+
+The OpenPV Project provides real-time status of the solar PV market (price and installed capacity data at the state level) in the U.S.
+
 ## Description
 
 The OpenPV Project is a collaborative effort among
