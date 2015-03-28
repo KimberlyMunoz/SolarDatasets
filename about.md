@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This website contains datasets and analysis tools for solar and alternative energy provided by the Department of Energy’s SunShot Initiative, the National Renewable Energy Laboratory (NREL).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The original data can be found on a pdf here:
+https://www.dropbox.com/s/oimrldon86gr12d/62805_NRELtoolsmodelcheatsheet_final.pdf
