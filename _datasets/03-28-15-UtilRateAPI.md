@@ -4,6 +4,7 @@ title: Utility Rate Database API
 link: http://en.openei.org/services/doc/rest
 nrel-contact: Nate Blair 
 category: Utility Rate Database
+short-description: This API allows access to complex utility rate structure information (across all sectors) for most U.S. utility companies.
 ---
 
 ## Short Description
