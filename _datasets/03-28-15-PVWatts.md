@@ -4,6 +4,10 @@ title: Photo Voltaic Watts
 link: http://pvwatts.nrel.gov
 nrel-contact: Nate Blair
 category: Photo Voltaic Watts
+short-description: Users can get an estimate of expected hourly, 
+monthly and annual PV system production for U.S. 
+and international locations. 
+identifier: 
 ---
 
 ## Short Description
