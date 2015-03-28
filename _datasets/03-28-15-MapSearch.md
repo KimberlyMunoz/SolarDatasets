@@ -5,7 +5,6 @@ link: http://www.nrel.gov/gis/mapsearch/index-b.html
 nrel-contact: Dan Getman
 category: Mapping Tools and Data
 short-description: MapSearch enables you to search NREL's collection of maps created by the Geographic Information System (GIS) team. 
-identifier: 
 ---
 
 ## Short description
