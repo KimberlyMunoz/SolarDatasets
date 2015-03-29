@@ -23,6 +23,7 @@ layout: default
         <div class="post-preview">
           <h3><a class="post-link" href="{{dataset.url | prepend: site.baseurl }}">{{dataset.title}}</a></h2>
           <p>{{dataset.short-description}}</p>
+          <a href="{{dataset.link}}">See Data >></a>
         </div>
         {% endif %}
       {% endfor %}
@@ -54,7 +55,7 @@ layout: default
 
   <!-- Climate and Solar Data -->
 
-  <h1 class="page-heading cf">Climate and Solar Data</h1>
+    <h1 class="page-heading cf">Climate and Solar Data</h1>
     <section class="post-list cf">
       {% for dataset in site.datasets %}
         {% if dataset.category contains 'Climate' %}
@@ -65,6 +66,7 @@ layout: default
         {% endif %}
       {% endfor %}
     </section>
+
   </div>
 
 </section>
